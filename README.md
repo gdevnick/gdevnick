@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gdevnick
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning C# (Unity)
+- 📫 How to reach me: titovn.index@gmail.com
